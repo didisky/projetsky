@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
 		TextView coucou = null;
 		super.onCreate(savedInstanceState);
 		coucou = new TextView(this);
-		coucou.setText("hello didi test numero 4");
+		coucou.setText("hello didi test numero 5");
 		setContentView(coucou);
 	}
 
